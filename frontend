@@ -1,0 +1,12 @@
+<form action="http://192.168.43.153/cgi-bin/dockerpage.py">
+<body style="text-align:center;background-color:powderblue;">
+<h1 style="color:green">WELCOME TO DOCKER WEBUI</h1>
+
+<h2 style="font-family:verdana;color:blue">!! Programming Made Easy !!</h2><br/><br/>
+<p>Enter your <mark>command</mark> : <input name="cmd" type="text"></p><br/>
+
+<input type="submit"></br><br/><br/><br/>
+<a href="https://hub.docker.com">
+<img src="put_image_address_here",width="450", height="350">
+</body>
+</form>
